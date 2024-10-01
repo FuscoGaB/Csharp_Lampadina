@@ -13,6 +13,7 @@ namespace Lampadina
         {
             accesa.Visible = true;
             spenta.Visible = false;
+            //prova git
         }
 
         private void button2_Click(object sender, EventArgs e)

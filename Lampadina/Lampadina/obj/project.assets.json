@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diana\\OneDrive\\Desktop\\Lampadina\\Lampadina\\Lampadina.csproj",
+      "projectUniqueName": "C:\\Users\\diana\\OneDrive\\Desktop\\fusco.22376\\Csharp_Lampadina\\Lampadina\\Lampadina\\Lampadina.csproj",
       "projectName": "Lampadina",
-      "projectPath": "C:\\Users\\diana\\OneDrive\\Desktop\\Lampadina\\Lampadina\\Lampadina.csproj",
+      "projectPath": "C:\\Users\\diana\\OneDrive\\Desktop\\fusco.22376\\Csharp_Lampadina\\Lampadina\\Lampadina\\Lampadina.csproj",
       "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diana\\OneDrive\\Desktop\\Lampadina\\Lampadina\\obj\\",
+      "outputPath": "C:\\Users\\diana\\OneDrive\\Desktop\\fusco.22376\\Csharp_Lampadina\\Lampadina\\Lampadina\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
